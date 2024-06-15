@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
+<img width="158" alt="Screenshot 2024-06-15 081808" src="https://github.com/vpnwann/Shipment-Tracker/assets/38458966/61775738-0e10-400a-baef-4759095251fd">
 First, run the development server:
 
 ```bash
